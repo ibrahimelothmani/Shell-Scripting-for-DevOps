@@ -1,0 +1,7 @@
+WhyShellScripting in DevOps?
+ ● Automate server setups (e.g., install packages, configure services)
+ ● Write deployment scripts
+ ● Manage logs and backups
+ ● Monitor system resources
+ ● Integrate with tools like Docker, Jenkins, Kubernetes
+ 
